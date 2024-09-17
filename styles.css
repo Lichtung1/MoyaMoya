@@ -63,11 +63,11 @@ body {
 }
 
 .ascii-art-regular {
-    font-size: 12px; /* Adjusted value for regular ASCII art */
+    font-size: 9px; /* Adjusted value for regular ASCII art */
 }
 
 .ascii-art-logo {
-    font-size: 12px; /* Adjusted value for the logo ASCII art */
+    font-size: 9px; /* Adjusted value for the logo ASCII art */
 }
 
 #glitch-image-container {
