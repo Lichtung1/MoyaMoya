@@ -1,11 +1,12 @@
 body {
     background-color: #000;
     color: #90f;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Consolas, 'Andale Mono', 'Lucida Console', 'Courier New', monospace;
     margin: 0;
     height: 100vh;
     overflow: hidden;
     cursor: url('cursor.png'), auto;
+    font-size: 20px; /* Increased base font size */
 }
 
 #terminal {
@@ -29,6 +30,7 @@ body {
     position: relative;
     z-index: 1;
     color: #90f;
+    font-size: 1.4em; /* Increased size for main text */
 }
 
 #hex-container {
@@ -42,9 +44,9 @@ body {
 }
 
 #cursor {
-    width: 10px;
-    height: 20px;
-    background-color: #00ff00;
+    width: 12px;
+    height: 24px;
+    background-color: #90f;
     animation: blink 1s step-end infinite;
     display: inline-block;
     vertical-align: bottom;
@@ -54,10 +56,18 @@ body {
     position: fixed;
     color: #90f;
     font-family: monospace;
-    font-size: 12px;
+    font-size: 18px; /* Adjusted size for falling hex */
     opacity: 0.7;
     text-shadow: 0 0 5px #90f;
     animation: flicker 0.5s infinite alternate;
+}
+
+.ascii-art-regular {
+    font-size: 12px; /* Adjusted value for regular ASCII art */
+}
+
+.ascii-art-logo {
+    font-size: 12px; /* Adjusted value for the logo ASCII art */
 }
 
 #glitch-image-container {
@@ -98,7 +108,7 @@ body {
 }
 
 #terminal::-webkit-scrollbar-track {
-    background: #000;
+    background: #90f;
 }
 
 #terminal::-webkit-scrollbar-thumb {
