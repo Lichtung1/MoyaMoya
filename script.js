@@ -27,19 +27,19 @@ const bootSequence = [
 const textContent = [
     'WHAT IS THE I?\n',
     '[ASCII_ART]',
-    'When I say "I," I\'m referring to a subject that is defined by a fundamental lack and a constant process of self-relating negativity...',
+    'When I say "I," I\'m referring to a subject that is \ndefined by a fundamental lack and a constant process \nof self-relating negativity...',
     '[ASCII_ART]',
-    'This "I" is not a substantial entity with fixed qualities, but a void: an emptiness that can only be understood through its own perpetual self-negation.',
+    'This "I" is not a substantial entity with fixed qualities, \nbut a void: an emptiness that can only be understood \nthrough its own perpetual self-negation.',
     '[ASCII_ART]',
-    'The Subject emerges as a distinct entity by differentiating itself from the external world, but this very act of differentiation introduces a split within the subject itself.',
+    'The Subject emerges as a distinct entity by differentiating \nitself from the external world, but this very act of \ndifferentiation introduces a split within the subject itself.',
     '[ASCII_ART]',
-    'The external difference that separates me from others and guarantees my identity is simultaneously the internal difference that divides me from myself.',
+    'The external difference that separates me from others and \nguarantees my identity is simultaneously the internal \ndifference that divides me from myself.',
     '[ASCII_ART]',
-    'This "Otherness" that I differentiate from myself is taken into my own identity, "not-I".',
+    'This "Otherness" that I differentiate from myself is taken \ninto my own identity, "not-I".',
     '[ASCII_ART]',
-    'We are always-already in a state of tension and contradiction, caught between the desire for wholeness and the impossibility of ever achieving it,',
+    'We are always-already in a state of tension and contradiction, \ncaught between the desire for wholeness and the \nimpossibility of ever achieving it,',
     '[ASCII_ART]',
-    'because wholeness is structurally impossible due to the contradiction of identity as overviewed above.',
+    'because wholeness is structurally impossible due to the \ncontradiction of identity.',
     '[ASCII_ART]'
 ];
 
